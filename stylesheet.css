@@ -1,0 +1,39 @@
+#fullpage{
+  height:100%;
+  width:100%;
+  }
+#header{
+  color: #fffafa;
+  font-family: Copperplate;
+  }
+#mainheading {
+	font-size:2em;
+	text-align:center;
+}
+#menubar{
+	font-size:20px;
+	text-align:center;
+	padding-top:20px;
+}
+#head2{
+	font-family:Papyrus;
+	padding: 10px 10px 10px 10px;
+}
+*{
+	background-color: #66cdaa;
+}
+#image{
+	height: 300px;
+	width: 500px;
+}
+h3{
+	font-family:Courier;
+}
+ul{
+	font-family:Consolas;
+	font-size:20px;
+}
+#para{
+	color:#2f4f4f;
+	font-family:Cursive;
+}
